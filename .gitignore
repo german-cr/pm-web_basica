@@ -1,0 +1,5 @@
+# ignora archivos de macos
+.DS_store
+
+# ignora archivo de configuracion
+config.txt
